@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "created": "2022-08-25 23:00:00",
+        "updated": "2022-08-25 23:00:00",
+        "status": 0,
+        "fname": "pedro",
+        "lname": "perez",
+        "address": "calle pontevedra 145",
+        "birthdate": "1990-11-22"
+    },
+    {
+        "id": "2",
+        "created": "2022-08-25 23:00:00",
+        "updated": "2022-08-25 23:00:00",
+        "status": 0,
+        "fname": "pedro",
+        "lname": "perez",
+        "address": "calle pontevedra 145",
+        "birthdate": "1990-11-22"
+    },
+    {
+        "id": "3",
+        "created": "2022-08-25 23:00:00",
+        "updated": "2022-08-25 23:00:00",
+        "status": 0,
+        "fname": "pedro",
+        "lname": "perez",
+        "address": "calle pontevedra 145",
+        "birthdate": "1990-11-22"
+    }
+]
